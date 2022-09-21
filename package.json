@@ -12,6 +12,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
+	"license": "MIT",
 	"keywords": ["testing","learning","adaptation","freecodecamp"],
 	"description": "This is a random description for the package.json"
 }
