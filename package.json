@@ -12,5 +12,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
+	"keywords": ["testing","learning","adaptation"],
 	"description": "This is a random description for the package.json"
 }
