@@ -12,6 +12,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"keywords": ["testing","learning","adaptation"],
+	"keywords": ["testing","learning","adaptation","freecodecamp"],
 	"description": "This is a random description for the package.json"
 }
