@@ -16,5 +16,8 @@
 	},
 	"license": "MIT",
 	"keywords": ["testing","learning","adaptation","freecodecamp"],
-	"description": "This is a random description for the package.json"
+	"description": "This is a random description for the package.json",
+	"engines": {
+		"node": "16.17.0"
+	}
 }
